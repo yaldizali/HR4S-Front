@@ -1,12 +1,17 @@
 {
   "ExpandedNodes": [
     "",
+    "\\bower_components",
+    "\\bower_components\\bootstrap",
+    "\\bower_components\\ckeditor\\plugins\\image",
+    "\\bower_components\\ckeditor\\plugins\\image\\dialogs",
+    "\\bower_components\\jquery\\dist",
     "\\dist",
     "\\dist\\js",
+    "\\dist\\js\\pages",
     "\\pages",
-    "\\pages\\charts",
-    "\\pages\\forms"
+    "\\plugins"
   ],
-  "SelectedNode": "\\egitim_talep.html",
+  "SelectedNode": "\\dist\\js\\pages\\dashboard2.js",
   "PreviewInSolutionExplorer": false
 }
